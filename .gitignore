@@ -1,0 +1,7 @@
+# Ansible
+ansible/inventory
+
+# Terraform
+.terraform/
+terraform.tfstate*
+tokens.tfvars
